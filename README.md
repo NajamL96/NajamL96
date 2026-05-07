@@ -4,7 +4,7 @@ I build things that ship. Based in London, currently working across Flutter mobi
 
 At [Tropical Marine Centre](https://www.tropicalmarinecentre.co.uk/) I'm the sole engineer across the full stack — designing and delivering a connected aquarium ecosystem from device firmware (C++/Arduino) through edge gateway (Raspberry Pi/Linux) to Flutter mobile apps and cloud backends. Two of my apps are live on the App Store and Google Play.
 
-I also build my own products. [TrustFlow](https://trustflow-liard.vercel.app/) is a social proof SaaS I designed, built, and deployed — testimonial collection, review imports, embeddable widgets, AI polish. Currently in public beta.
+I also build my own products. [TrustFlow](https://trustflow-main-xi.vercel.app/) is a social proof SaaS I designed, built, and deployed — testimonial collection, review imports, embeddable widgets, AI polish. Currently in public beta.
 
 ---
 
