@@ -2,7 +2,7 @@
 
 I build things that ship. Based in London, working across TypeScript/React web products, Flutter mobile apps, and cloud-connected systems.
 
-At [Tropical Marine Centre](https://www.tropicalmarinecentre.co.uk/) I'm the sole engineer — owning the full product stack from backend APIs and web dashboards through to Flutter mobile apps on the App Store and Google Play. I also independently built and deployed [TrustFlow](https://trustflow-main-xi.vercel.app/), a social proof SaaS — testimonial collection, embeddable widgets, AI polish, team seats. Built solo, live in production.
+At [Tropical Marine Centre](https://www.tropicalmarinecentre.co.uk/) I'm the sole engineer — owning the full product stack from backend APIs and web dashboards through to Flutter mobile apps live on the App Store and Google Play, including shipping production LLM features (OpenAI). On the side I'm building [Provaly](https://provaly-main.vercel.app/), a social-proof / testimonial tool — Next.js + TypeScript, front-end-focused and in active development.
 
 ---
 
@@ -18,53 +18,43 @@ Flutter · Dart · Android (Kotlin/Java) · iOS/Android releases · deep linking
 BLoC · Riverpod · Provider · GetX
 
 **Cloud & Data**
-Firebase (Auth/Firestore/FCM/Storage) · AWS · MongoDB · SQLite · PostgreSQL
+Firebase (Auth/Firestore/FCM/Storage) · Azure (IoT Hub, Functions) · MongoDB · PostgreSQL · SQLite
 
 **Tools & Delivery**
 Git · GitHub Actions · Docker · CI/CD · Postman · Agile/Scrum
 
 ---
 
-## Shipped work
+## Shipped & in progress
 
-### TrustFlow — Social Proof SaaS
-**[trustflow-main-xi.vercel.app](https://trustflow-main-xi.vercel.app/)**
-Full SaaS product built solo. Testimonial collection with AI polish, Google/Trustpilot review imports, 8 embeddable widget types, smart routing, team seats, white-label. Next.js · TypeScript · Supabase · Vercel. Live in public beta.
+### Provaly — Social-proof / testimonial tool *(in progress)*
+**[provaly-main.vercel.app](https://provaly-main.vercel.app/)**
+A web app I'm building solo for collecting and embedding customer testimonials. Next.js · TypeScript · Supabase. Front-end-focused and in active development.
 
 ---
 
 ### Favia — Flutter (iOS & Android)
 **[App Store](https://apps.apple.com/gb/app/favia/id6471412725) · [Google Play](https://play.google.com/store/apps/details?id=com.tropicalmarinecentre.favia)**
-Production mobile app for marine aquarium management. Device monitoring, real-time telemetry, product integration. Flutter · Firebase · REST.
+Marine aquarium management app. Device monitoring and control over BLE, real-time telemetry, and production AI advice features (OpenAI). Flutter · Firebase · REST.
 
 ---
 
 ### Fetes — Flutter (iOS & Android)
 **[App Store](https://apps.apple.com/by/app/fetes/id1661214922) · [Google Play](https://play.google.com/store/apps/details?id=tv.fetes.mainApp)**
-Live streaming and social platform. Video playback, Firebase Auth, push notifications, multi-platform auth (Google, Apple, Facebook). Flutter · Firebase · Provider.
-
----
-
-### Karamad — Healthcare Platform *(client work — NDA)*
-Flutter mobile app for healthcare worker management. Auth flows, scheduling, role-based access, real-time data sync. Flutter · Firebase · REST APIs.
-
----
-
-### Connected Product Platform *(client work — NDA)*
-Full-stack connected product — Flutter mobile app, web dashboard, cloud backend, and device communication layer. End-to-end ownership from architecture to production release.
+Live streaming and social platform. Video playback, Firebase Auth, push notifications, multi-provider auth (Google, Apple, Facebook). Flutter · Firebase · Provider.
 
 ---
 
 ## Currently
 
 - Building full-stack and mobile features at Tropical Marine Centre, London
-- Iterating on TrustFlow — video testimonials, Google & Trustpilot import
+- Iterating on Provaly
 - Open to full-stack and mobile engineering roles in the UK
 
 ---
 
 ## Find me
 
-[LinkedIn](https://linkedin.com/in/najamkhan-dev) · [TrustFlow](https://trustflow-main-xi.vercel.app/) · najamlodhi1@gmail.com
+[LinkedIn](https://linkedin.com/in/najamkhan-dev) · najamlodhi1@gmail.com
 
 *Right to work: UK Graduate Visa valid until May 2027 — open to Skilled Worker sponsorship*
