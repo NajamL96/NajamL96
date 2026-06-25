@@ -1,9 +1,8 @@
 # Muhammad Najam Khan — Full-Stack & Mobile Engineer
 
-I build things that ship. Based in London, working across TypeScript/React web products, Flutter mobile apps, and cloud-connected systems.
+I build and ship connected products end to end — TypeScript/React on the web, Flutter on mobile, and the cloud and device layers that tie them together. Based in London.
 
-At [Tropical Marine Centre](https://www.tropicalmarinecentre.co.uk/) I'm the sole engineer — owning the full product stack from backend APIs and web dashboards through to Flutter mobile apps live on the App Store and Google Play, including shipping production LLM features (OpenAI). On the side I'm building [Provaly](https://provaly-main.vercel.app/), a social-proof / testimonial tool — Next.js + TypeScript, front-end-focused and in active development.
-
+At Tropical Marine Centre I'm the sole engineer on a connected-hardware platform — owning the stack from ESP32 devices and Azure IoT cloud through to Flutter apps live on the App Store and Google Play, including production LLM features (OpenAI). On the side I'm building Provaly, a social-proof / testimonial tool — Next.js + TypeScript, front-end-focused and in active development.
 ---
 
 ## What I work with
@@ -24,26 +23,22 @@ Firebase (Auth/Firestore/FCM/Storage) · Azure (IoT Hub, Functions) · MongoDB �
 Git · GitHub Actions · Docker · CI/CD · Postman · Agile/Scrum
 
 ---
+Selected work
 
-## Shipped & in progress
+Favia — Flutter (iOS & Android)
 
-### Provaly — Social-proof / testimonial tool *(in progress)*
-**[provaly-main.vercel.app](https://provaly-main.vercel.app/)**
-A web app I'm building solo for collecting and embedding customer testimonials. Next.js · TypeScript · Supabase. Front-end-focused and in active development.
+App Store · Google Play
+Marine aquarium management app. BLE device monitoring and control, real-time telemetry, OTA firmware updates pushed to connected hardware over BLE, and production AI advice features (OpenAI).  Flutter · Firebase · Azure IoT · REST
 
----
+Fetes — Flutter (iOS & Android)
 
-### Favia — Flutter (iOS & Android)
-**[App Store](https://apps.apple.com/gb/app/favia/id6471412725) · [Google Play](https://play.google.com/store/apps/details?id=com.tropicalmarinecentre.favia)**
-Marine aquarium management app. Device monitoring and control over BLE, real-time telemetry, and production AI advice features (OpenAI). Flutter · Firebase · REST.
+App Store · Google Play
+Live-streaming and social platform. Video playback, Firebase Auth, push notifications, multi-provider auth (Google, Apple, Facebook).  Flutter · Firebase · Provider
 
----
+Provaly — Social-proof / testimonial tool (in progress)
 
-### Fetes — Flutter (iOS & Android)
-**[App Store](https://apps.apple.com/by/app/fetes/id1661214922) · [Google Play](https://play.google.com/store/apps/details?id=tv.fetes.mainApp)**
-Live streaming and social platform. Video playback, Firebase Auth, push notifications, multi-provider auth (Google, Apple, Facebook). Flutter · Firebase · Provider.
-
----
+provaly-main.vercel.app
+A web app I'm building solo for collecting and embedding customer testimonials. Front-end-focused and in active development.  Next.js · TypeScript · Supabase
 
 ## Currently
 
