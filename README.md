@@ -4,7 +4,7 @@ I build things that ship. Based in London, working across Flutter mobile apps, E
 
 At [Tropical Marine Centre](https://www.tropicalmarinecentre.co.uk/) I'm the sole engineer across the full stack — designing and delivering a connected aquarium ecosystem from device firmware (C++/Arduino) through edge gateway (Raspberry Pi/Linux) to Flutter mobile apps and cloud backends. Two of my apps are live on the App Store and Google Play.
 
-I also build my own products. [TrustFlow](https://trustflow-liard.vercel.app/) is a social proof SaaS I designed, built, and deployed — testimonial collection, review imports, embeddable widgets, AI polish. Currently in public beta. **Provaly Agent** is a newer exploration in a related space — an AI reputation-management agent that monitors reviews, drafts on-brand replies with Claude, and surfaces reputation insights.
+I also build my own products. [Provaly](https://provaly-main.vercel.app/) is an AI reputation-management agent I designed, built, and deployed — it monitors business reviews, drafts on-brand replies with Claude, and surfaces reputation insights. Currently in active development.
 
 ---
 
@@ -38,13 +38,9 @@ Git · Postman · GitHub Actions · Docker · CI/CD · Agile/Scrum
 
 ## Shipped work
 
-### TrustFlow — Social Proof SaaS
-**[trustflow-liard.vercel.app](https://trustflow-liard.vercel.app/)**
-Full SaaS product built solo. Testimonial collection with AI polish, Google/Trustpilot review imports, 8 embeddable widget types, smart routing, team seats, white-label. Next.js · TypeScript · Supabase · Vercel. Currently in public beta.
-
-### Provaly Agent — AI Reputation Management Agent
-**[github.com/najamlodhi1/provaly-agent](https://github.com/najamlodhi1/provaly-agent)**
-AI agent that monitors business reviews, drafts on-brand replies with Claude, generates sentiment/trust-score insights as structured output, and composes review-request campaigns. FastAPI · MongoDB · React · Claude API.
+### Provaly — AI Reputation Management Agent
+**[Live demo](https://provaly-main.vercel.app/) · [github.com/najamlodhi1/provaly](https://github.com/najamlodhi1/provaly)**
+AI agent that monitors business reviews, drafts on-brand replies with Claude, generates sentiment/trust-score insights as structured output, and composes review-request campaigns. Next.js · TypeScript · Claude API.
 
 ### Favia — Flutter (iOS & Android)
 **[App Store](https://apps.apple.com/gb/app/favia/id6471412725) · [Google Play](https://play.google.com/store/apps/details?id=com.tropicalmarinecentre.favia)**
@@ -72,14 +68,13 @@ Three production Android apps built for clients at Future Vision DevSol: **Red S
 ## Currently
 
 * Building connected product features at Tropical Marine Centre, London
-* Iterating on TrustFlow — next up: Google & Trustpilot import, video testimonials
-* Developing Provaly Agent — wiring up real review-source integrations
+* Developing Provaly — wiring up real review-source integrations (Google Places, Trustpilot, Facebook Graph)
 * Open to senior mobile/IoT/full-stack engineering roles in the UK
 
 ---
 
 ## Find me
 
-[LinkedIn](https://linkedin.com/in/najamkhan-dev) · [TrustFlow](https://trustflow-liard.vercel.app/) · [najamlodhi1@gmail.com](mailto:najamlodhi1@gmail.com)
+[LinkedIn](https://linkedin.com/in/najamkhan-dev) · [Provaly](https://provaly-main.vercel.app/) · [najamlodhi1@gmail.com](mailto:najamlodhi1@gmail.com)
 
 *Right to work: UK Graduate Visa valid until May 2027 — open to Skilled Worker sponsorship*
